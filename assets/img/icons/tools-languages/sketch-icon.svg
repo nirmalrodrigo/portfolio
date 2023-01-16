@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="74px" height="73px" viewBox="0 0 74 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>sketch-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Resume-Tools" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="sketch-icon" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-3" fill="#EFA635" sketch:type="MSShapeGroup" x="0.558365458" y="0" width="73" height="73" rx="40"></rect>
+            <path d="M28.8210383,19 L44.8232377,19 L52.2088682,22.574961 L58.1877119,29.7248829 L36.5583655,59.3970588 L14.929019,29.5461348 L20.9078627,22.3962129 L28.8210383,19 Z" id="Path-1" stroke="#FFFFFF" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M19.974026,22.6176471 L29.1304503,26.1422413 L44.1703894,26.1422413 L53.7272727,22.0141171" id="Path-2" stroke="#EFA635" sketch:type="MSShapeGroup"></path>
+            <path d="M28.8955542,26.6861661 L23.9922073,36.3385606 L49.6660657,36.3385606 L44.5862641,26.6861661" id="Path-3" stroke="#EFA635" stroke-linecap="square" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+            <path d="M14,29.2494112 L23.7392913,36.4694376 L36.7879601,60.0317808" id="Path-4" stroke="#EFA635" sketch:type="MSShapeGroup"></path>
+            <path d="M36.22796,28.9479406 L46.2066644,36.4694376 L59.551948,60.5357816" id="Path-4" stroke="#EFA635" sketch:type="MSShapeGroup" transform="translate(47.889954, 44.741861) scale(-1, 1) translate(-47.889954, -44.741861) "></path>
+        </g>
+    </g>
+</svg>

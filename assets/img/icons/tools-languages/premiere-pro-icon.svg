@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="73px" height="74px" viewBox="0 0 73 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>premiere-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Resume-Tools" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="premiere-icon" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-2" fill="#33173F" sketch:type="MSShapeGroup" x="0" y="0.5" width="73" height="73" rx="40"></rect>
+            <path d="M19.78,50.5 L26.122,50.5 L26.122,40.378 C26.71,40.462 27.466,40.504 28.306,40.504 C32.086,40.504 35.32,39.58 37.504,37.522 C39.184,35.926 40.108,33.574 40.108,30.802 C40.108,28.03 38.89,25.678 37.084,24.25 C35.194,22.738 32.38,21.982 28.432,21.982 C24.526,21.982 21.754,22.234 19.78,22.57 L19.78,50.5 Z M26.122,27.064 C26.584,26.938 27.466,26.812 28.768,26.812 C31.96,26.812 33.766,28.366 33.766,30.97 C33.766,33.868 31.666,35.59 28.264,35.59 C27.34,35.59 26.668,35.548 26.122,35.422 L26.122,27.064 Z M43.594,50.5 L49.978,50.5 L49.978,40.084 C49.978,39.58 50.02,39.076 50.104,38.656 C50.524,36.682 52.12,35.422 54.472,35.422 C55.186,35.422 55.732,35.506 56.194,35.59 L56.194,29.584 C55.732,29.5 55.438,29.5 54.85,29.5 C52.876,29.5 50.356,30.76 49.306,33.742 L49.138,33.742 L48.928,29.962 L43.426,29.962 C43.51,31.726 43.594,33.7 43.594,36.724 L43.594,50.5 Z" id="Pr" fill="#DF94FC" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>bootstrap-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Resume-Tools" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="bootstrap-icon" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-2" fill="#5A4181" sketch:type="MSShapeGroup" x="0.558365458" y="0.5" width="73" height="73" rx="40"></rect>
+            <g id="Group" transform="translate(23.558365, 20.000000)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                <path d="M9.07004,27.8443 L14.65544,27.8443 C19.29979,27.8443 19.5704567,24.6516056 19.5704567,23.5291333 C19.5704567,22.4874111 19.1697733,19.2659111 14.6346567,19.2659111 L9.07004,19.2659111 L9.07004,27.8443 L9.07004,27.8443 Z M9.07004,13.2767167 L13.9415567,13.2767167 C17.5462567,13.2767167 17.9097233,10.9694389 17.9097233,9.86302222 C17.9097233,8.83782778 17.2543233,6.59382778 14.00439,6.59382778 L9.07004,6.59382778 L9.07004,13.2767167 L9.07004,13.2767167 Z M0.21199,0.172077778 L16.2151567,0.172077778 C25.2733067,0.172077778 27.2308067,6.46302222 27.2308067,8.94691111 C27.2308067,13.9704111 24.31534,15.2553278 22.85954,15.8323833 C25.07079,16.4420222 28.6585733,18.2846333 28.6585733,24.6733278 C28.6585733,26.4998833 28.4227067,33.7003278 16.6293733,33.7003278 L0.21199,33.7003278 L0.21199,0.172077778 L0.21199,0.172077778 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

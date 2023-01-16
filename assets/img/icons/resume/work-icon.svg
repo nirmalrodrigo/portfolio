@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="123px" height="124px" viewBox="0 0 123 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>work-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="work-icon" sketch:type="MSLayerGroup" transform="translate(-0.500000, 0.000000)">
+            <g id="Group" transform="translate(0.365490, 0.049010)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                <path d="M61.6347054,0.922735395 C95.3398017,0.922735395 122.663197,28.2461307 122.663197,61.951227 C122.663197,95.6563233 95.3398017,122.979719 61.6347054,122.979719 C27.9296091,122.979719 0.606213801,95.6563233 0.606213801,61.951227 C0.606213801,28.2461307 27.9296091,0.922735395 61.6347054,0.922735395 L61.6347054,0.922735395 Z" id="Shape"></path>
+            </g>
+            <g id="Work" transform="translate(33.881386, 36.269549)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-5" stroke="#226DBF" stroke-width="3" x="0" y="10.2050102" width="56.3705324" height="39.3621821" rx="8"></rect>
+                <path d="M18.0314772,10.2050102 C18.0314772,10.2050102 16.8982967,3 28.2301022,3 C39.5619077,3 38.9953174,10.004871 38.9953174,10.004871" id="Path-102" stroke="#226DBF" stroke-width="3" stroke-linecap="square" stroke-linejoin="bevel"></path>
+                <g id="Group" transform="translate(20.423030, 21.673357)" fill="#226DBF">
+                    <path d="M12.7299938,2.5007307 C12.831609,2.80557629 12.7299938,3.12735775 12.5267634,3.33058814 C12.323533,3.53381853 11.9678798,3.56769026 11.6630342,3.43220333 C5.32902032,0.857951703 2.36524378,10.2912291 5.1427258,12.0356233 C7.5814905,13.6106588 9.59685855,11.7646494 9.81702481,10.680754 C10.934792,6.19274949 7.17502972,8.10650235 8.10650235,6.05726256 C8.59764246,4.93949541 11.307381,5.49837898 12.4590199,7.5814905 C15.3889247,12.831609 9.78315308,18.132535 4.1435097,16.0832952 C0.0958377332,14.592939 -0.666276236,8.39441207 1.04424623,4.77013675 C3.92334345,-1.19128808 11.6630342,-0.835634896 12.7299938,2.5007307 L12.7299938,2.5007307 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="117px" height="116px" viewBox="0 0 117 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.4.2 (15820) - http://www.bohemiancoding.com/sketch -->
+    <title>Agency</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Global-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Agency" sketch:type="MSLayerGroup" transform="translate(0.500000, 0.000000)">
+            <circle id="Oval" fill="#E9583D" sketch:type="MSShapeGroup" cx="58" cy="58" r="58"></circle>
+            <g id="Icon" transform="translate(37.663444, 26.885135)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                <path d="M29.353168,21.6379439 L22.3874419,2.11601043 C22.1161292,1.36309013 21.3905962,0.856143795 20.5797065,0.856143795 C19.7688167,0.856143795 19.0432837,1.36309013 18.7750194,2.11601043 L11.8092934,21.6379439 L6.36779623,37.9262197 L0.228202238,57.6941272 C-0.00957746957,58.4680452 0.270880647,59.2929579 0.926299072,59.7669078 C1.58476596,60.2348582 2.47796409,60.2528563 3.14557634,59.7969046 L20.5827549,47.984155 L38.0260304,59.7969046 C38.3491669,60.0188811 38.7302241,60.1298693 39.1112814,60.1298693 C39.5045324,60.1298693 39.9038804,60.0068824 40.2361623,59.7669078 C40.8976776,59.2929579 41.1781357,58.4650456 40.9373076,57.6941272 L34.7885682,37.9262197 L29.353168,21.6379439 Z M19.7644545,21.7418489 C20.0126717,20.9308463 20.4147402,20.9296338 20.6633285,21.7418489 L26.013793,39.2234768 C26.2620102,40.0344794 25.7734435,40.691927 24.9306469,40.691927 L15.4971362,40.691927 C14.6507139,40.691927 14.1654018,40.0356918 14.4139901,39.2234768 L19.7644545,21.7418489 Z" id="Fill-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

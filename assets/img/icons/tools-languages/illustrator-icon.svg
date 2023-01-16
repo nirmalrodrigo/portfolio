@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="73px" height="74px" viewBox="0 0 73 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>illustrator-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Resume-Tools" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="illustrator-icon" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-2" fill="#28150B" sketch:type="MSShapeGroup" x="0" y="0.5" width="73" height="73" rx="40"></rect>
+            <path d="M34.068,43.234 L36.252,50.5 L43.14,50.5 L34.362,22.192 L25.962,22.192 L17.31,50.5 L23.946,50.5 L25.962,43.234 L34.068,43.234 Z M26.886,38.446 L28.566,32.44 C29.028,30.802 29.448,28.66 29.868,26.98 L29.952,26.98 C30.372,28.66 30.876,30.76 31.38,32.44 L33.144,38.446 L26.886,38.446 Z M52.842,50.5 L52.842,29.962 L46.458,29.962 L46.458,50.5 L52.842,50.5 Z M49.65,21.016 C47.592,21.016 46.248,22.402 46.29,24.25 C46.248,26.014 47.592,27.442 49.608,27.442 C51.708,27.442 53.052,26.014 53.052,24.25 C53.01,22.402 51.708,21.016 49.65,21.016 L49.65,21.016 Z" id="Ai" fill="#FD8C33" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
