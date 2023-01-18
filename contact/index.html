@@ -406,7 +406,6 @@
       $("#form").validetta({
         showErrorMessages: false,
         onValid: function (event) {
-          $("#form").trigger("reset");
           $(".error-message").css("display", "none");
           $(".success-message").css("display", "block");
           $(document).scrollTop(
