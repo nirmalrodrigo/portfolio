@@ -359,51 +359,51 @@
     ></script>
     <script type="text/javascript">
       var headroomHeight = 150;
-      function postToGoogle() {
-        var name = $("#name").val(),
-          email = $("#email").val(),
-          phone = $("#phone").val(),
-          design = $("#design:checkbox:checked").val(),
-          development = $(
-            "#development:checkbox:checked"
-          ).val(),
-          wordpress = $(
-            "#wordpress:checkbox:checked"
-          ).val(),
-          shopify = $("#shopify:checkbox:checked").val(),
-          logo = $("#logo:checkbox:checked").val(),
-          animation = $(
-            "#animation:checkbox:checked"
-          ).val(),
-          description = $("#description").val();
-        var url =
-          "https://docs.google.com/forms/d/e/1FAIpQLSclNEQZTg_OmYPOORoFpj9o-mqkrArOwvG4-solUjEA17tkkw/formResponse";
-        var data = {
-          "entry.1133065921": name,
-          "entry.113337309": email,
-          "entry.158350123": phone,
-          "entry.476775123": [
-            design,
-            development,
-            wordpress,
-            shopify,
-            logo,
-            animation,
-          ],
-          "entry.2009199435": description,
-        };
-        $.ajax({
-          type: "POST",
-          url: url,
-          data: data,
-          dataType: "json",
-          traditional: true,
-          statusCode: {
-            0: function () {},
-            200: function () {},
-          },
-        });
-      }
+      // function postToGoogle() {
+      //   var name = $("#name").val(),
+      //     email = $("#email").val(),
+      //     phone = $("#phone").val(),
+      //     design = $("#design:checkbox:checked").val(),
+      //     development = $(
+      //       "#development:checkbox:checked"
+      //     ).val(),
+      //     wordpress = $(
+      //       "#wordpress:checkbox:checked"
+      //     ).val(),
+      //     shopify = $("#shopify:checkbox:checked").val(),
+      //     logo = $("#logo:checkbox:checked").val(),
+      //     animation = $(
+      //       "#animation:checkbox:checked"
+      //     ).val(),
+      //     description = $("#description").val();
+      //   var url =
+      //     "https://docs.google.com/forms/d/e/1FAIpQLSclNEQZTg_OmYPOORoFpj9o-mqkrArOwvG4-solUjEA17tkkw/formResponse";
+      //   var data = {
+      //     "entry.1133065921": name,
+      //     "entry.113337309": email,
+      //     "entry.158350123": phone,
+      //     "entry.476775123": [
+      //       design,
+      //       development,
+      //       wordpress,
+      //       shopify,
+      //       logo,
+      //       animation,
+      //     ],
+      //     "entry.2009199435": description,
+      //   };
+      //   $.ajax({
+      //     type: "POST",
+      //     url: url,
+      //     data: data,
+      //     dataType: "json",
+      //     traditional: true,
+      //     statusCode: {
+      //       0: function () {},
+      //       200: function () {},
+      //     },
+      //   });
+      // }
       $("#form").validetta({
         showErrorMessages: false,
         onValid: function (event) {
