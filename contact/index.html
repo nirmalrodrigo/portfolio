@@ -406,8 +406,6 @@
       $("#form").validetta({
         showErrorMessages: false,
         onValid: function (event) {
-          event.preventDefault();
-          postToGoogle();
           $("#form").trigger("reset");
           $(".error-message").css("display", "none");
           $(".success-message").css("display", "block");
